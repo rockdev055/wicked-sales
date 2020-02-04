@@ -1,5 +1,5 @@
-# Wicked Pedals
-Formerly known as Wicked Sales.  Full-stack e-commerce experience for guitar pedals and pedal supplies.
+# Wicked Sales
+Full-stack e-commerce experience.
 
 # Technologies Used
 - React.js
